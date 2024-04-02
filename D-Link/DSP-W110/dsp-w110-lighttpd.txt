@@ -1,4 +1,4 @@
->> D-Link DSP-W110 - multiple vulnerabilities
+1>> D-Link DSP-W110 - multiple vulnerabilities
 
 ----
 Discovered by:
